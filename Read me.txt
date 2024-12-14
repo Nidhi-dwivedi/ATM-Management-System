@@ -1,0 +1,10 @@
+=====Steps to run this simulation======
+
+1. Install mysql database connector if not exists using
+    pip install mysql-connector-python
+
+2. Make sure that root_password is same as the password of your database user in both "data.py" and "atm.py"
+
+3. Run or execute "data.py" file in order to put all the data in your database (This step is required only once on one device)
+
+4. Run or execute "atm.py" file and enjoy "ATM simulation"
