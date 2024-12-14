@@ -30,7 +30,7 @@ The original project documentation, providing additional insights into the imple
 1. Ensure you have Python installed on your system (preferably version 3.7 or above).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ATM-Management-System.git
+   git clone https://github.com/Nidhi-dwivedi/ATM-Management-System.git
    ```
 3. Navigate to the project directory:
    ```bash
